@@ -9,6 +9,7 @@
 TODO § ----- §
 + Create authentication; registration and login
 + Keep with Session
++ Create a Git Branch with Cookies
 + Bcrypt and hash securtly
 + Store password in a SQL
 + Store storage componets in SQL list
